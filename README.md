@@ -3,7 +3,7 @@
 Um projeto interativo e divertido para sortear amigos secretos desenvolvido com HTML, CSS e JavaScript.
 
 ## ✨ Como funciona o jogo
-![Assista ao vídeo demonstrativo](assets/video-amigo-secreto-2025-08-30.gif)
+![Assista ao vídeo tutorial](assets/video-amigo-secreto-2025-08-30.gif)
 
 ### 🎯 Objetivo
 
@@ -65,3 +65,11 @@ Sortear aleatoriamente um amigo secreto entre os participantes cadastrados.
   --color-button: #59305d;
 }
 ```
+**Luana Alves**  
+- 📧 luanaalves.v85@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luana-a-943951b8)
+- 🌐 [GitHub](https://github.com/Alvesluna)
+
+---
+📄 Licença
+**Desenvolvido como parte do Challenge da Alura em parceria com a Oracle** 🚀
