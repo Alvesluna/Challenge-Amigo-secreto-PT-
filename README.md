@@ -1,6 +1,7 @@
 # 🎁 Amigo Secreto - Challenge Alura + Oracle
 
 Um projeto interativo e divertido para sortear amigos secretos desenvolvido com HTML, CSS e JavaScript.
+![Screenshot do Projeto](assets/tela-captura-30-08-2025.png)
 
 ## ✨ Como funciona o jogo
 
